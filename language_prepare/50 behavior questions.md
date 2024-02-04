@@ -1,6 +1,8 @@
-The most significant skill while you want to find a job in a developed country seems to be language. As most of developed contries concentrated in Europe and North America. So english is the first skill i need to improve.
+The most significant skill while you want to find a job in a developed country seems to be language, of course provided that your professional skills have met the market requirements. As most of developed contries concentrated in Europe and North America. So english is the first skill i need to improve.
 
+But for non-native english speakers, most english leanring scenarios focus on preparing for exams in the school, which may not be very useful when you need to communicate in a english-speaking environment.As a result,you often feel  that your Enlish level is not sufficiant.
 
+So what's the most effective way to improve English level quickly? 
 
 
 
