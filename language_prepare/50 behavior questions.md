@@ -4,7 +4,7 @@ But for non-native english speakers, most english leanring scenarios focus on pr
 
 So what's the most effective way to improve English level quickly? 
 
-To improve my English, I aim to communicate with native speakers more and more on topics that I am interested in, including questions that may be asked during an interview. It would be pointless to tell the interviewer about my cooking skills since it is not relevant to the job. 
+To improve my English, I aim to communicate with native speakers more and more on topics that I am interested in, including questions that may be asked during an interview. 
 
 So there are two issues i need to solve: finding a native speaker who can talk to me any time i need,and determing the topics to discuss.
 
@@ -13,6 +13,7 @@ For the first issue I hava found a great solution,which is a AI chatbot with tex
 The second issue can alson be solved by the first solution.Here are 35 behavior questions may be asked in a job interview,which i ontained throgh a conversation with the chatbot.I asked it to simulate a job interview,with me playing the role of the applicant and the chatbot acting as the interviewer.We will discuss each question within the scenario we simulated.
 
 I wil keep a record of the conversations I have with the chatbot every day,focusing on one question per day.
+
 
 
 1. Tell me about a time when you had to work on a challenging Java project. How did you approach it?
